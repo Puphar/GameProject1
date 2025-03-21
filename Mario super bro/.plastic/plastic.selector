@@ -1,0 +1,4 @@
+repository "Mario super bro@puphar@cloud"
+  path "/"
+    br "/main"
+    co "/main"

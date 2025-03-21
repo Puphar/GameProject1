@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Enemy
+  - JumpPad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Power up
+  - Enemy
+  - CameraWall
+  - Wall
+  - Shell
+  - Projectile
+  - Piranha
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background3
+    uniqueID: 3997443967
+    locked: 0
+  - name: Background2
+    uniqueID: 3332162353
+    locked: 0
+  - name: Background1
+    uniqueID: 3086523883
+    locked: 0
+  - name: TreeiSh
+    uniqueID: 831763259
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 9
+    uniqueID: 1954307037
+    locked: 0
+  - name: Tree
+    uniqueID: 4017861965
+    locked: 0
+  - name: Player
+    uniqueID: 1068861029
+    locked: 0
+  - name: TEST
+    uniqueID: 2967351575
+    locked: 0
+  - name: PIPE
+    uniqueID: 893854423
+    locked: 0
+  - name: Ground
+    uniqueID: 1314366933
+    locked: 0
+  - name: PlayerEffect
+    uniqueID: 3965043847
+    locked: 0
+  - name: Cut
+    uniqueID: 2126293561
+    locked: 0

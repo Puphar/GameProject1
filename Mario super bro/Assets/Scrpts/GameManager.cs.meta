@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1f2f7f4b5c2d92e418975bb9b2305799
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinsText: {fileID: 8644761012860596065, guid: 16047b36587adae458de6e5392743445, type: 3}
+  - scoreText: {fileID: 7536683337179429791, guid: f931674b451894b46833c7b264a298c5, type: 3}
+  - timerText: {fileID: 2297703424768517060, guid: 94360343371361b4abb73c26b7209a1b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

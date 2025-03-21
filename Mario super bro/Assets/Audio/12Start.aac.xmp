@@ -1,0 +1,211 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1-c000 79.b0f8be9, 2021/12/08-19:11:22        " rdfhash="311BFE72F00955DCE7A31336C219F2B6" merged="0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/"
+   xmpMM:InstanceID="xmp.iid:c9dfd296-6eef-eb42-8479-7907ad380c93"
+   xmpMM:DocumentID="4d543d09-da2e-b27c-cad4-28fc00000041"
+   xmpMM:OriginalDocumentID="xmp.did:2b44a461-fcba-5f49-ac78-260ef050a17b"
+   xmp:MetadataDate="2024-04-23T09:36:32+07:00"
+   xmp:ModifyDate="2024-04-23T09:36:32+07:00"
+   xmp:CreatorTool="Adobe Premiere Pro 2023.0 (Windows)"
+   xmp:CreateDate="2024-04-23T09:36:02+07:00"
+   xmpDM:audioSampleRate="48000"
+   xmpDM:audioSampleType="16Int"
+   xmpDM:audioChannelType="Stereo"
+   xmpDM:startTimeScale="30000"
+   xmpDM:startTimeSampleSize="1001"
+   dc:format="AAC Audio">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="bbc30fce-a2af-c5c3-05ab-c13a0000006e"
+      stEvt:when="2024-04-23T09:36:32+07:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:e0a29a35-5c47-2740-b963-599a40ecf40b"
+      stEvt:when="2024-04-23T09:36:32+07:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:e6201483-aec3-754d-99eb-e95a320d0861"
+      stEvt:when="2024-04-23T09:36:32+07:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:c9dfd296-6eef-eb42-8479-7907ad380c93"
+      stEvt:when="2024-04-23T09:36:32+07:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <xmpMM:Ingredients>
+    <rdf:Bag>
+     <rdf:li
+      stRef:instanceID="6d27fd76-c159-7322-ffc5-9b860000008a"
+      stRef:documentID="22c77b9c-2a31-cfa6-cc68-9a8f0000005d"
+      stRef:fromPart="time:0d491588697600f254016000000"
+      stRef:toPart="time:0d491588697600f254016000000"
+      stRef:filePath="01- Overworld [drums].mp3"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="70e855ca-4bc2-4f26-6150-cbe60000008a"
+      stRef:documentID="9357e445-5e42-14fa-fa6f-86480000005d"
+      stRef:fromPart="time:0d635675040000f254016000000"
+      stRef:toPart="time:0d635675040000f254016000000"
+      stRef:filePath="01- Overworld [music].mp3"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="f30adbf2-c7ac-cc11-d074-a2a400000088"
+      stRef:documentID="808c0650-935f-42a3-c247-766b0000005b"
+      stRef:fromPart="time:0d635675040000f254016000000"
+      stRef:toPart="time:0d635675040000f254016000000"
+      stRef:filePath="01- Overworld [bass].mp3"
+      stRef:maskMarkers="None"/>
+    </rdf:Bag>
+   </xmpMM:Ingredients>
+   <xmpMM:Pantry>
+    <rdf:Bag>
+     <rdf:li>
+      <rdf:Description
+       xmpDM:artist="Koji Kondo / Aqua MIDI"
+       xmpDM:album="Super Mario Bros. OST Remastered"
+       xmpDM:trackNumber="1/0"
+       xmpDM:composer="Koji Kondo"
+       xmpMM:InstanceID="6d27fd76-c159-7322-ffc5-9b860000008a"
+       xmpMM:DocumentID="22c77b9c-2a31-cfa6-cc68-9a8f0000005d"
+       xmpMM:OriginalDocumentID="xmp.did:5ac4167c-451d-da46-aed9-1688ddedbe51"
+       xmp:MetadataDate="2024-04-23T09:34:36+07:00"
+       xmp:ModifyDate="2024-04-23T09:34:36+07:00">
+      <dc:title>
+       <rdf:Alt>
+        <rdf:li xml:lang="x-default">Overworld</rdf:li>
+       </rdf:Alt>
+      </dc:title>
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="6d27fd76-c159-7322-ffc5-9b860000008a"
+         stEvt:when="2024-04-23T09:34:36+07:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmpDM:artist="Koji Kondo / Aqua MIDI"
+       xmpDM:album="Super Mario Bros. OST Remastered"
+       xmpDM:trackNumber="1/0"
+       xmpDM:composer="Koji Kondo"
+       xmpMM:InstanceID="70e855ca-4bc2-4f26-6150-cbe60000008a"
+       xmpMM:DocumentID="9357e445-5e42-14fa-fa6f-86480000005d"
+       xmpMM:OriginalDocumentID="xmp.did:1880f1ce-44c5-874b-a2a1-5e6a23442b16"
+       xmp:MetadataDate="2024-04-23T09:34:36+07:00"
+       xmp:ModifyDate="2024-04-23T09:34:36+07:00">
+      <dc:title>
+       <rdf:Alt>
+        <rdf:li xml:lang="x-default">Overworld</rdf:li>
+       </rdf:Alt>
+      </dc:title>
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="70e855ca-4bc2-4f26-6150-cbe60000008a"
+         stEvt:when="2024-04-23T09:34:36+07:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       xmpDM:artist="Koji Kondo / Aqua MIDI"
+       xmpDM:album="Super Mario Bros. OST Remastered"
+       xmpDM:trackNumber="1/0"
+       xmpDM:composer="Koji Kondo"
+       xmpMM:InstanceID="f30adbf2-c7ac-cc11-d074-a2a400000088"
+       xmpMM:DocumentID="808c0650-935f-42a3-c247-766b0000005b"
+       xmpMM:OriginalDocumentID="xmp.did:51054be2-9d55-af43-9872-b5245a90b999"
+       xmp:MetadataDate="2024-04-23T09:34:36+07:00"
+       xmp:ModifyDate="2024-04-23T09:34:36+07:00">
+      <dc:title>
+       <rdf:Alt>
+        <rdf:li xml:lang="x-default">Overworld</rdf:li>
+       </rdf:Alt>
+      </dc:title>
+      <xmpMM:History>
+       <rdf:Seq>
+        <rdf:li
+         stEvt:action="saved"
+         stEvt:instanceID="f30adbf2-c7ac-cc11-d074-a2a400000088"
+         stEvt:when="2024-04-23T09:34:36+07:00"
+         stEvt:softwareAgent="Adobe Premiere Pro 2023.0 (Windows)"
+         stEvt:changed="/"/>
+       </rdf:Seq>
+      </xmpMM:History>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Bag>
+   </xmpMM:Pantry>
+   <xmpMM:DerivedFrom
+    stRef:instanceID="xmp.iid:e0a29a35-5c47-2740-b963-599a40ecf40b"
+    stRef:documentID="xmp.did:e0a29a35-5c47-2740-b963-599a40ecf40b"
+    stRef:originalDocumentID="xmp.did:e0a29a35-5c47-2740-b963-599a40ecf40b"/>
+   <creatorAtom:windowsAtom
+    creatorAtom:extension=".prproj"
+    creatorAtom:invocationFlags="/L"
+    creatorAtom:uncProjectPath="\\?\C:\Users\66800\Documents\Adobe\Premiere Pro\23.0\AUDIOMARIO.prproj"/>
+   <creatorAtom:macAtom
+    creatorAtom:applicationCode="1347449455"
+    creatorAtom:invocationAppleEvent="1129468018"/>
+   <xmpDM:projectRef
+    xmpDM:type="movie"/>
+   <xmpDM:duration
+    xmpDM:value="120120"
+    xmpDM:scale="1/48000"/>
+   <xmpDM:startTimecode
+    xmpDM:timeFormat="AudioSamplesTimecode"
+    xmpDM:timeValue="00:00:00:00000"/>
+   <xmpDM:altTimecode
+    xmpDM:timeValue="00:00:00:00000"
+    xmpDM:timeFormat="AudioSamplesTimecode"/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
